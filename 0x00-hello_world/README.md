@@ -13,3 +13,5 @@ C programing first project scripts
 6. 5-printf.c: A  C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
 
 7. 6-size.c: A C program that prints the size of various types on the computer it is compiled and run on.
+
+8. 100-intel: A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
