@@ -5,3 +5,5 @@ The if...else and while project
 2. 1-last_digit.c: A program that determines if last digit of a random is > 5, = 0, or < 6.
 
 3. 2-print_alphabet.c: A program that prints the alphabet in lowercase, followed by a new line.
+
+4. 3-print_alphabets.c: A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
