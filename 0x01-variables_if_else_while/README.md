@@ -11,3 +11,5 @@ The if...else and while project
 5. 4-print_alphabt.c: A program that prints the alphabet in lowercase, followed by a new line.
 
 6. 5-print_numbers.c: A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
+7. 6-print_numberz.c: A program that prints all single digit numbers of base 10 starting from 0, followed by a new line with putchar function.
