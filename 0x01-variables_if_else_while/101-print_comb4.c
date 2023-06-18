@@ -7,9 +7,7 @@
  */
 int main(void)
 {
-	int i;
-	int j;
-	int k;
+	int i,  j,  k;
 
 	i = 0;
 
@@ -29,7 +27,7 @@ int main(void)
 					putchar(j + '0');
 					putchar(k + '0');
 
-					if (i != 8)
+					if (i != 7)
 					{
 						putchar(',');
 						putchar(' ');
