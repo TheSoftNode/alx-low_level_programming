@@ -21,3 +21,6 @@ The if...else and while project
 10. 9-print_comb.c: A program that prints all possible combinations of single-digit numbers.
 
 11. 100-print_comb3.c: A program that prints all possible different combinations of two digits.
+
+12. 101-print_comb4.c: A program that prints all possible different combinations of three digits.
+
