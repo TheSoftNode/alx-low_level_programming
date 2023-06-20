@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * main - Prints -putchar to stdout
@@ -7,7 +7,14 @@
  */
 int main(void)
 {
-	puts("_putchar");
+	char *p = "_putchar\n";
+
+	while (*p)
+	{
+		_putchar(*p);
+
+		p++;
+	}
 
 	return (0);
 }
