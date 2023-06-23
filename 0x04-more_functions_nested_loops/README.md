@@ -15,10 +15,5 @@ More functions and Nested Loops
 7. 6-print_line.c: A function that draws a straight line in the terminal.
 
 8. 7-print_diagonal.c: A function that draws a diagonal line on the terminal.
-8. 7-print_diagonal.c: A function that draws a diagonal line on the terminal.
-8. 7-print_diagonal.c: A function that draws a diagonal line on the terminal.
-8. 7-print_diagonal.c: A function that draws a diagonal line on the terminal.
-8. 7-print_diagonal.c: A function that draws a diagonal line on the terminal.
-8. 7-print_diagonal.c: A function that draws a diagonal line on the terminal.
-8. 7-print_diagonal.c: A function that draws a diagonal line on the terminal.
-8. 7-print_diagonal.c: A function that draws a diagonal line on the terminal.
+
+9. 8-print_square.c: A function that prints a square, followed by a new line.
