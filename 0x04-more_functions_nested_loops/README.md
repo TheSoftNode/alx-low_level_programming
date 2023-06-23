@@ -24,4 +24,4 @@ More functions and Nested Loops
 
 12. 100-prime_factor.c: A program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
 
-13. 
+13. 101-print_number.c: A function that prints an integer. 
