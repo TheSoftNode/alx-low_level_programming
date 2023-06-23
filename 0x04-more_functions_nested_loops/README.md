@@ -6,4 +6,6 @@ More functions and Nested Loops
 
 3. 2-mul: A function that multiplies two integers.
 
-4. 3-print_numbers.c: A a function that prints the numbers, from 0 to 9, followed by a new line.
+4. 3-print_numbers.c: A function that prints the numbers, from 0 to 9, followed by a new line.
+
+5. 4-print_most_numbers.c: A  function that prints the numbers, from 0 to 9, followed by a new line.
