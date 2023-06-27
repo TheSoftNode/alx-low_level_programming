@@ -1,0 +1,4 @@
+main.c
+!*.c
+!README.md
+_putchar.c
