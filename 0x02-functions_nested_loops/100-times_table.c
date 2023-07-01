@@ -60,7 +60,7 @@ void print_times_table(int n)
 {
 	int i, j, tm;
 
-	if (n > 0 && n <= 15)
+	if (n >= 0 && n <= 15)
 	{
 		i = 0;
 
