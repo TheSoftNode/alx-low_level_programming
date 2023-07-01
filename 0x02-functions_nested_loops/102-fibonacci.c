@@ -7,20 +7,20 @@
  */
 int main(void)
 {
-	long long int n1, n2, next;
+	unsigned long n1, n2, next;
 	int i;
 
 	n1 = 1;
 	n2 = 2;
 	next = 0;
 
-	printf("%lli, %lli, ", n1, n2);
+	printf("%lu, %lu, ", n1, n2);
 
 	for (i = 2; i < 49; i++)
 	{
 		next = n1 + n2;
 
-		printf("%lli", next);
+		printf("%lu", next);
 
 		if (i != 48)
 			printf(", ");
