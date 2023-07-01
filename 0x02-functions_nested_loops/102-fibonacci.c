@@ -16,13 +16,13 @@ int main(void)
 
 	printf("%lu, %lu, ", n1, n2);
 
-	for (i = 2; i < 49; i++)
+	for (i = 2; i < 50; i++)
 	{
 		next = n1 + n2;
 
 		printf("%lu", next);
 
-		if (i != 48)
+		if (i != 49)
 			printf(", ");
 
 		n1 = n2;
