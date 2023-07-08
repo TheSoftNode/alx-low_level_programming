@@ -10,13 +10,19 @@
  */
 void print_array(int *a, int n)
 {
-	int i = 0;
+	int i;
 
-	for (; i < n; i++)
+	if (n <= 0)
 	{
-		printf("%d", a[i]);
-		if (i < n - 1)
-			printf(", ");
+		printf("\n");
+		return;
 	}
-	_putchar('\n');
+
+	for (i = 0; i < n; i++)
+	{
+		if (i != n -1)
+			printf("%i, ", a[i]);
+		else
+			printf("%i\n", a[i]); 
+	}
 }
